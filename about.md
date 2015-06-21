@@ -11,3 +11,8 @@ I hope you enjoy your visit. I also have a blog at http://martinmendez.com where
 ### Contact me
 
 Twitter: @martinmendez
+
+### Other blogs that where I used to write
+
+[martinmendez.com @ Wordpress](https://martinmendez.com)
+[martinmendez @ Tumblr](http://martinmendez.tumblr.com)
