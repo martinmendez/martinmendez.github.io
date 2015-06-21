@@ -10,7 +10,7 @@ I hope you enjoy your visit. I also have a blog at http://martinmendez.com where
 
 ### Contact me
 
-Twitter: @martinmendez
+Twitter: [https://twitter.com/martinmendez](@martinmendez)
 
 ### Other blogs that where I used to write
 
