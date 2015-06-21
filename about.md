@@ -8,10 +8,6 @@ Hi !, I am Martin Mendez. I live in Buenos Aires, Argentina. This is my github b
 In this place I primarily write in English.
 I hope you enjoy your visit. I also have a blog at http://martinmendez.com where I used to publish longest thoughts (but I write in Spanish there)...
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
 Twitter: @martinmendez
