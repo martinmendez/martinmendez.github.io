@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi !, I am Martin Mendez. I live in Buenos Aires, Argentina. This is my github blog. I post here quotes, videos & podcasts and pictures. I am a CIO, so topics here are focused in the relationship between people and Information Technology (the soft side of IT).
+In this place I primarily write in English.
+I hope you enjoy your visit. I also have a blog at http://martinmendez.com where I used to publish longest thoughts (but I write in Spanish there)...
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Twitter: @martinmendez

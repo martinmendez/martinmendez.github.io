@@ -17,18 +17,12 @@ avatar: https://martinmendez.github.io/images/profile_picture.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: mmendezb@gmail.com
-  facebook: facebook.com/martinmendez
-  flickr:
-  github: github.com/martinmendez
-  instagram: intagram.com/martinmendez
-  linkedin: https://ar.linkedin.com/in/mmendez
-  pinterest:
-  rss: martinmendez.github.io
   twitter: martinmendez
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  tumblr: http://martinmendez.tumblr.com
+  github: github.com/martinmendez
+  linkedin: https://ar.linkedin.com/in/mmendez
+  rss: martinmendez.github.io
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
